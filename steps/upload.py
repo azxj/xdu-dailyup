@@ -4,7 +4,7 @@ import requests
 def upload(cookies):
     r = requests.request(
         method='POST',
-        url='https://xxcapp.xidian.edu.cn/ncov/wap/default/save',
+        url='https://xxcapp.xidian.edu.cn/xisuncov/wap/open-report/save',
         data={
             'sfzx': '1',
             'tw': '1',
