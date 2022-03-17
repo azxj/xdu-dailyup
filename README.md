@@ -1,4 +1,4 @@
-# 西安电子科技大学晨午晚检脚本
+# 西安电子科技大学（广州研究院）晨午晚检脚本
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/azxj/xdu-dailyup)
 ![GitHub last commit](https://img.shields.io/github/last-commit/azxj/xdu-dailyup)
