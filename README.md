@@ -1,8 +1,8 @@
 # 西安电子科技大学（广州研究院）晨午晚检脚本
 
-![GitHub repo size](https://img.shields.io/github/repo-size/azxj/xdu-dailyup)
-![GitHub last commit](https://img.shields.io/github/last-commit/azxj/xdu-dailyup)
-![GitHub](https://img.shields.io/github/license/azxj/xdu-dailyup)
+![GitHub repo size](https://img.shields.io/github/repo-size/xiaojianzhong/xdu-dailyup)
+![GitHub last commit](https://img.shields.io/github/last-commit/xiaojianzhong/xdu-dailyup)
+![GitHub](https://img.shields.io/github/license/xiaojianzhong/xdu-dailyup)
 
 ## 目录
 
